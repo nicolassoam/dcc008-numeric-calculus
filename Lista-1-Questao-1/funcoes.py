@@ -1,6 +1,5 @@
 # Lista 1 de Cálculo Numérico - Parte 1
-# Maria Luísa Riolino Guimarães (202165563C)
-# Nicolas Soares Martins (202165559C)
+
 
 import numpy as np
 import matplotlib.pyplot as plt
